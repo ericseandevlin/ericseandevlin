@@ -9,4 +9,4 @@ Design technologist. I lead UX engineering at Citi: design systems and AI toolin
 ## Links
 
 - Site: [ericdevlin.co](https://ericdevlin.co)
-- LinkedIn: [in/ericdevlin](https://www.linkedin.com/in/ericdevlin)
+- LinkedIn: [in/ericseandevlin](https://www.linkedin.com/in/ericseandevlin/)
